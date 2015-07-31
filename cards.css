@@ -1,0 +1,31 @@
+button#deal {
+    margin: 250px 400px;
+    width: 15em;
+    height: 5em;
+}
+div.outer {
+    float: left;
+    border: 2px solid gray;
+    margin: 10px;
+}
+div.square {
+    height: 250px;
+    width: 190px;
+    color: cornflowerblue;
+    padding: 10px;
+}
+input.bidBox {
+    padding: 10px;
+    margin: 10px;
+}
+.latest {
+    border: 1px solid red;
+}
+input.bidBtn, input.passBtn {
+
+}
+span#winner {
+    color: red;
+    font-weight: bold;
+    padding: 10px;
+}
